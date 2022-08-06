@@ -1,5 +1,6 @@
 return {
-["Justinalreadytaken17"] = true
+["Justinalreadytaken17"] = true,
+["Username"] = true
 }
 
 
