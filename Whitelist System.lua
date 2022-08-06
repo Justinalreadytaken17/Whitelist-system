@@ -1,6 +1,6 @@
 return {
 
-["UserId"] = 3643166189
+["UserId"] = true
 
 }
 
